@@ -2,11 +2,12 @@
 
 - 🚀 **I´m a Full Stack Developer trying to make things easy for everyone.**
 
-- 👉 **If you are looking for digital solutions, contact me!**
-  
-- 🌐 [link](http://www.twc.com.ar)
+- 📧 **If you are looking for digital solutions, contact me!**
 
-- 👉 [link](http://www.instagram.com/twc.soluciones)
+- 👉 **[Instagram.com/TWC.Soluciones]**(http://www.instagram.com/twc.soluciones)
+  
+- 🌐 **[www.twc.com.ar]**(http://www.twc.com.ar)
+  
 <!--
 **MarceOrtiz11/MarceOrtiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
