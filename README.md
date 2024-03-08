@@ -4,9 +4,9 @@
 
 - 📧 **If you are looking for digital solutions, contact me!**
 
-- 👉 **[Instagram]**(http://www.instagram.com/twc.soluciones)
+- 👉 **[Instagram]**(www.instagram.com/twc.soluciones)
   
-- 🌐 **[WebSite]**(http://www.twc.com.ar)
+- 🌐 **[WebSite]**(www.twc.com.ar)
   
 <!--
 **MarceOrtiz11/MarceOrtiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
