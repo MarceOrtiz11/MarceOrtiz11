@@ -1,7 +1,4 @@
-### Hi there👋!
-I am Marcelo Ortiz 🌐💻🚀
-
-![Marcelo Ortiz](https://github.com/MarceOrtiz11/MarceOrtiz11/assets/132960483/851b949c-25bf-42f8-9a0f-115c84437d51)
+![Marcelo Ortiz](https://media.licdn.com/dms/image/D4D16AQFdkqFEIS_2EA/profile-displaybackgroundimage-shrink_350_1400/0/1709912965791?e=1715212800&v=beta&t=pq0bEuttfHejV-zA_tDuo0PAqZLRtWN5QSgb1e6TTNI")
 
 I am Full Stack Developer and I try to make things easy for everyone.
 
