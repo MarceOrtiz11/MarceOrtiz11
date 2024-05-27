@@ -1,4 +1,4 @@
-![Marcelo Ortiz](https://media.licdn.com/dms/image/D4D16AQFdkqFEIS_2EA/profile-displaybackgroundimage-shrink_350_1400/0/1709912965791?e=1715212800&v=beta&t=pq0bEuttfHejV-zA_tDuo0PAqZLRtWN5QSgb1e6TTNI)
+![Marcelo Ortiz](https://media.licdn.com/dms/image/D4D16AQFdkqFEIS_2EA/profile-displaybackgroundimage-shrink_350_1400/0/1709912965791?e=1722470400&v=beta&t=hQwLT5oi9gOrJHBbp7zjSToyO2Tlu_E80m6J4HC1zRI)
 
 - 🚀 **I´m a Full Stack Developer trying to make things easy for everyone.**
 
