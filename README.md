@@ -1,4 +1,4 @@
-![Marcelo Ortiz]([https://drive.google.com/file/d/1O6ndUips3aFvaskBioukLokF4Uq5zSrj/view?usp=sharing](https://drive.google.com/file/d/1O6ndUips3aFvaskBioukLokF4Uq5zSrj/view?usp=sharing))
+![Marcelo Ortiz](https://drive.google.com/file/d/1O6ndUips3aFvaskBioukLokF4Uq5zSrj/view?usp=sharing](https://drive.google.com/file/d/1O6ndUips3aFvaskBioukLokF4Uq5zSrj/view?usp=sharing))
 
 - 🚀 **I´m a Full Stack Developer trying to make things easy for everyone.**
 
