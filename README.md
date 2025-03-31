@@ -1,4 +1,4 @@
-![Marcelo Ortiz](file:///C:/Users/marce/OneDrive/Escritorio/Marcelo/Perfil%20Profesional/Perfil/BanneProfesional.png)
+![Marcelo Ortiz](https://drive.google.com/file/d/1O6ndUips3aFvaskBioukLokF4Uq5zSrj/view?usp=sharing)
 
 - 🚀 **I´m a Full Stack Developer trying to make things easy for everyone.**
 
